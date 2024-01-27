@@ -1,1 +1,2 @@
-# Excel_Store_Analysis_Project
+#Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+  
